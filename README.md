@@ -9,7 +9,7 @@ Nov 2019 - Apr 2023, New York
 - Managed Instant Games integration between Facebook Gaming in US and Early Cross in Japan.
 - Gave weekly presentations and updates to license holder Bandai Namco.
 
-**Tech Lead** on [**Pac-Man Live Studio**]() for Twitch (unreleased)
+**Tech Lead** on [**Pac-Man Live Studio**](https://www.twitch.tv/directory/category/pac-man-live-studio) for Twitch (unreleased)
 - Managed project with partners at Amazon Game Studios, Bandai Namco, and Early Cross.
 - Architected integration from web game to Twitch extension, solved design challenges to transform standalone game into web overlay on top of streaming video.
 
