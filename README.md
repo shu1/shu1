@@ -25,18 +25,18 @@ Nov 2019 - Apr 2023, New York
 - Intense 6-week schedule in 3-person team, implementing features and giving presentations in English and Japanese to teams and heads of divisions every 2 weeks.
 - Helped game pass greenlight within company.
 
-**Senior Web Developer** on **Silent Hill Ascension**
+**Senior Web Developer** on [**Silent Hill Ascension**](https://www.mobygames.com/game/211166/silent-hill-ascension/)
 - Developed web and mobile apps in Typescript and React.
 
 ## Studio Mercato, cofounder
 2013 - 2017, New York
 
-**Nika** - digital board game released on Android, Kindle Fire, Windows, Chromebook, itch.io
+[**Nika**](https://devpost.com/software/nika) - digital board game released on Android, Kindle Fire, Windows, Chromebook, itch.io
 - Also developed for iPhone, iPad, Nintendo Wii U
 - Architected and implemented JavaScript for all platforms/aspect ratios/input methods with one codebase.
 - For native mobile apps, worked with CocoonJS which converted html5 canvas into opengl, allowing it to run on retina iPads at 60fps when webviews did not in 2013.
 
-**Crystal Brawl** - released on Xbox One, Windows, Chromebook, itch.io
+[**Crystal Brawl**](https://www.xbox.com/games/store/crystal-brawl/9wzdncrdlkb3) - released on Xbox One, Windows, Chromebook, itch.io
 - Developed with Construct 2 html5 game engine.
 - Worked with Microsoft to be launch title for [Xbox One Creators Collection](https://www.youtube.com/watch?v=xxV8izXRMGM&t=100s).
 
@@ -54,7 +54,7 @@ Nov 2019 - Apr 2023, New York
 - Created large-scale web content, including fully interactive XrossMediaBar prototype framework in Javascript.
 - Developed UI components for PS3 web browser.
 
-**Software Engineer** on **PSX** - Japan-only PS2 + DVR hybrid console
+**Software Engineer** on [**PSX**](https://wikipedia.org/wiki/PSX_(digital_video_recorder)) - Japan-only PS2 + DVR hybrid console
 - Managed spec design between SCEI in Japan and SCEA in US.
 - Merged and tested Japan and US codebases in C++, using Araxis Merge and Perforce, on weekly basis.
 - Managed QA members and process of US-side bugs.
