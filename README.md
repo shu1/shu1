@@ -23,7 +23,7 @@ Game dev, web dev, international project management
 - Developed web and mobile apps in Typescript, React.
 
 ## Studio Mercato, cofounder
-2013 - 2017, New York
+2013 - 2018, New York
 
 **[Nika](https://devpost.com/software/nika)** - digital board game released on Android, Kindle Fire, Windows, Chromebook, itch.io
 - Architected and implemented Javascript for all platforms/aspect ratios/input methods with one codebase.
