@@ -33,6 +33,13 @@ Game dev, web dev, international project management
 - Developed with Construct 2 html5 game engine.
 - Worked with Microsoft to be launch title for [Xbox Creators Collection](https://youtube.com/watch?v=xxV8izXRMGM&t=100s).
 
+## Aizawa & Associates CPA
+2009 - 2012, New York
+
+**IT Manager**
+- Set up and maintained office PCs and network, remote access, GSuite, service accounts, etc.
+- Advised and supported Japanese small business clients in US setting up IT systems.
+
 ## iNiS Corporation
 2007 - 2009, Tokyo
 
