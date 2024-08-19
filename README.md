@@ -48,7 +48,7 @@ Game dev, web dev, international project management
 - Implemented game’s 3D menu in C++, Lua.
 
 ## Sony Corporation
-2003 - 2007, Tokyo / San Mateo, California
+2003 - 2007, Tokyo / Foster City, California
 
 **Software Engineer** on **PlayStation 3**
 - Initiated integration of web browser for PS3 system launch, also used for PS Online Store.
