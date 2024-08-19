@@ -21,6 +21,7 @@ Game dev, web dev, international project management
 
 **Senior Web Dev** on **[Silent Hill Ascension](https://mobygames.com/game/211166/silent-hill-ascension/credits/)**
 - Developed web and mobile apps in Typescript, React.
+- Won [Creative Arts Emmy Award](https://www.gamesindustry.biz/silent-hill-ascension-wins-at-2024-creative-arts-emmy-awards) for _Outstanding Innovation in Emerging Media Programming_.
 
 ## Studio Mercato, cofounder
 2013 - 2018, New York
