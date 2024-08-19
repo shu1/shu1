@@ -2,7 +2,7 @@
 Game dev, web dev, international project management
 
 ## Genvid Technologies
-2019 - 2023, New York
+2019 - 2023, New York / Tokyo
 
 **Tech Lead** on **[Pac-Man Community](https://mobygames.com/game/197571/pac-man-community/)** for _Facebook Instant Games_ platform, played by over 5 million people.
 - Managed development with partners at _Facebook Gaming_ in US, _Bandai Namco_ and _Early Cross_ in Japan.
@@ -10,8 +10,8 @@ Game dev, web dev, international project management
 - Directed QA on builds, gathered and executed deployment requirements, managed releases.
 
 **Tech Lead** on **Twitch extension** GDC demos
-- Managed projects with Japanese game devs _Hearts Technologies_, _Head-High Co_, _Space Sweeper_.
-- Implemented Twitch extensions, trained partner devs, escalated issues to and brought solutions from platform devs in US.
+- Managed projects with game studio partners _Hearts Technologies_, _Head-High Co_, _Space Sweeper_.
+- Implemented Twitch extensions, trained partner devs in Japan, escalated issues to and brought solutions from platform devs in US.
 - Space Sweeper featured at [Tokyo Game Show’s Esports event with NTT Docomo](https://venturebeat.com/business/genvid-and-ntt-docomo-demo-5g-lan-party-at-tokyo-game-show/).
 
 **Senior Web Dev** on **Square Enix** tech demo (unreleased)
@@ -35,7 +35,7 @@ Game dev, web dev, international project management
 - Worked with Microsoft to be launch title for [Xbox Creators Collection](https://youtube.com/watch?v=xxV8izXRMGM&t=100s).
 
 ## Aizawa & Associates CPA
-2009 - 2012, New York
+2009 - 2012, Westchester, NY
 
 **IT Manager**
 - Set up and maintained office PCs and network, remote access, GSuite, service accounts, etc.
@@ -48,7 +48,7 @@ Game dev, web dev, international project management
 - Implemented game’s 3D menu in C++, Lua.
 
 ## Sony Corporation
-2003 - 2007, Tokyo
+2003 - 2007, Tokyo / San Mateo, California
 
 **Software Engineer** on **PlayStation 3**
 - Initiated integration of web browser for PS3 system launch, also used for PS Online Store.
