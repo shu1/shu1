@@ -4,7 +4,7 @@ Game dev, web dev, international project management
 ## AnotherBall
 2024 - 2025, Tokyo
 
-**Product Team Manager** on **[Avvy](https://play.google.com/store/apps/details?id=com.anotherball.avvy)** vtuber app.
+**Product Team Manager** on **[Avvy](https://play.google.com/store/apps/details?id=com.anotherball.avvy)** vtuber app
 - Managed international engineering team across server and client, led agile ceremonies, ensured all members had necessary context and information in English and Japanese.
 - Researched and established workflows for entirely new avatar system, with internal design team and partner companies.  Upon release hit over 200k users in 10 days.
 - Implemented and released server features using agentic AI.
@@ -20,7 +20,7 @@ Game dev, web dev, international project management
 **Tech Lead** on **Twitch extension** GDC demos
 - Managed projects with game studio partners _Hearts Technologies_, _Head-High Co_, _Space Sweeper_.
 - Implemented Twitch extensions, trained partner devs in Japan, escalated issues to and brought solutions from platform devs in US.
-- Space Sweeper featured at [Tokyo Game Show’s Esports event with NTT Docomo](https://venturebeat.com/business/genvid-and-ntt-docomo-demo-5g-lan-party-at-tokyo-game-show/).
+- Space Sweeper featured at [Tokyo Game Show’s Esports event with NTT Docomo](https://gamesbeat.com/genvid-and-ntt-docomo-demo-5g-lan-party-at-tokyo-game-show/).
 
 **Senior Web Dev** on **Square Enix** tech demo (unreleased)
 - Designed and implemented Genvid feature demo for game in development.
