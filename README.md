@@ -1,6 +1,14 @@
 # Shuichi Aizawa
 Game dev, web dev, international project management
 
+## AnotherBall
+2024 - 2025, Tokyo
+
+**Product Team Manager** on **[Avvy](https://play.google.com/store/apps/details?id=com.anotherball.avvy)** vtuber app.
+- Managed international engineering team across server and client, led agile ceremonies, ensured all members had necessary context and information in English and Japanese.
+- Researched and established workflows for entirely new avatar system, with internal design team and partner companies.  Upon release hit over 200k users in 10 days.
+- Implemented and released server features using agentic AI.
+
 ## Genvid Technologies
 2019 - 2023, New York / Tokyo
 
@@ -30,8 +38,8 @@ Game dev, web dev, international project management
 - Architected and implemented Javascript for all platforms/aspect ratios/input methods with one codebase.
 - Worked with CocoonJS which converted html5 canvas into opengl for native mobile apps, allowing it to run on retina/4k resolutions at 60fps when webviews were too slow.
 
-**[Crystal Brawl](https://xbox.com/games/store/crystal-brawl/9wzdncrdlkb3)** - released on Xbox One, Windows, Chromebook, itch.io
-- Developed with Construct 2 html5 game engine.
+**[Crystal Brawl](https://devpost.com/software/crystal-brawl)** - released on Xbox One, Windows, Chromebook, itch.io
+- Developed in Construct 2 html5 game engine.
 - Worked with Microsoft to be launch title for [Xbox Creators Collection](https://youtube.com/watch?v=xxV8izXRMGM&t=100s).
 
 ## Aizawa & Associates CPA
@@ -45,7 +53,7 @@ Game dev, web dev, international project management
 2007 - 2009, Tokyo
 
 **UI Engineer** on **[Lips](https://mobygames.com/game/42546/lips/)** for Xbox 360
-- Implemented game’s 3D menu in C++, Lua.
+- Implemented game’s 3D user interfaces in C++, Lua.
 
 ## Sony Corporation
 2003 - 2007, Tokyo / Foster City, California
